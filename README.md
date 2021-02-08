@@ -1,2 +1,2 @@
 # gitg-test
-test
+Test repository for GitG
