@@ -2,4 +2,6 @@ local function stdout(message)
 	print(message)
 end
 
-stdout("test")
+local data = "Hello, World!"
+
+stdout(data)
